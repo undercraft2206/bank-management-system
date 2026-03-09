@@ -1,9 +1,6 @@
 # bank-management-system
 
 
-⚠️Warning ⚠️: 
-
-
 # ⚠️WARNING⚠️
 
 
