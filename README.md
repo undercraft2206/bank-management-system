@@ -1,10 +1,16 @@
 # bank-management-system
 
 
-⚠️Warning ⚠️: the programme is still in developpement ! Some feature like change the money come !
+⚠️Warning ⚠️: 
 
 
-# ⚠️remake of BANK-MANAGEMENT-SYSTEM for Binary File
+# ⚠️WARNING⚠️
+
+
+remake of BANK-MANAGEMENT-SYSTEM for Binary File
+
+
+the programme is still in developpement ! Some feature like change the money come !
 
 
 
