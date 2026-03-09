@@ -4,14 +4,13 @@
 # ⚠️WARNING⚠️
 
 
-remake of BANK-MANAGEMENT-SYSTEM for Binary File
+remake of BANK-MANAGEMENT-SYSTEM for Binary File and LINUX and WINDOWS format
 
 
 the programme is still in developpement ! Some feature like change the money come !
 
 
-
-
+There is some bug ! 🐛
 
 
 # Installation
