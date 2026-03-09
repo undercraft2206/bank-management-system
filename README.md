@@ -30,9 +30,8 @@ gcc main.c -o bank-management.exe && .\bank-management.exe
 ```
 
 
-for linux
+
+# Linux !
 
 
-```bash
-gcc main.c -o bank-management && ./bank-management
-```
+The LINUX Realise will come !
