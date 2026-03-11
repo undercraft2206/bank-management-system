@@ -4,13 +4,23 @@
 # ⚠️WARNING⚠️
 
 
-remake of BANK-MANAGEMENT-SYSTEM for Binary File and LINUX and WINDOWS format
+⚠️Big bug ! (i'am fixing right now)
 
 
-the programme is still in developpement ! Some feature like change the money come !
+you should make your own settings, this is the format:
 
 
-There is some bug ! 🐛
+make file: settings (settings), accounts (for bank account)
+
+
+in setting:
+
+
+{name} {
+{password}
+{ID}
+Is_admin=true
+}
 
 
 # Installation
