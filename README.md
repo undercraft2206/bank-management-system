@@ -7,7 +7,7 @@
 ⚠️Big bug ! (i'am fixing right now)
 
 
-bog of settings on start have been fixed, pushing when add function have been fixed !
+bug of settings on start have been fixed, pushing when add function have been fixed !
 
 
 # Installation
