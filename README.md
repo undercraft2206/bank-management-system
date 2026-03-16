@@ -7,20 +7,7 @@
 ⚠️Big bug ! (i'am fixing right now)
 
 
-you should make your own settings, this is the format:
-
-
-make file: settings (settings), accounts (for bank account)
-
-
-in setting:
-
-
-{name} {
-{password}
-{ID}
-Is_admin=true
-}
+bog of settings on start have been fixed, pushing when add function have been fixed !
 
 
 # Installation
